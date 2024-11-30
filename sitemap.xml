@@ -6,9 +6,4 @@
     <priority>1.0</priority>
   </url>
   <!-- Ajoutez d'autres URLs si votre site contient plusieurs pages -->
-  <url>
-    <loc>https://walid-abouir.github.io/projects</loc>
-    <lastmod>2024-11-29</lastmod>
-    <priority>0.8</priority>
-  </url>
 </urlset>
